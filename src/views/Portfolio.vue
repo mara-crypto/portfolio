@@ -43,11 +43,11 @@ import NavBar from '../components/NavBar.vue'
                     <h3>Site de réservation de services</h3>
                     <p>Objectifs du projet : Le projet vise à créer une plateforme de réservation en ligne
                         pour permettre aux utilisateurs de réserver des services tels que des chambres d'hôtel, des voitures de location, des restaurants.
-                        - Fonctionnalités clés :
-                        o Recherche de services :
-                        o Paiement en ligne :
-                        o Gestion des réservations
-                        o Notifications.
+                        Fonctionnalités clés :
+                        - Recherche de services :
+                        - Paiement en ligne :
+                        - Gestion des réservations
+                        - Notifications.
                     </p>
                     <a href="https://github.com/mara-crypto/projet_django">read more</a>
                 </div>

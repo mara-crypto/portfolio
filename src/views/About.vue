@@ -28,7 +28,7 @@ import NavBar from '../components/NavBar.vue'
     
                 <div class="box">
                     <h3> <span>freelance : </span> available </h3>
-                    <h3> <span>skill : </span> Data Scientist, Data Analyst </h3>
+                    <h3> <span>skills : </span> Data Scientist, Data Analyst </h3>
                     <h3> <span>experience : </span> -1 years </h3>
                     <h3> <span>language : </span> french, english </h3>
                 </div>
@@ -43,7 +43,7 @@ import NavBar from '../components/NavBar.vue'
 
             <div class="box">
                 <h3>-1</h3>
-                <p>years of experience</p>
+                <p>year of experience</p>
             </div>
 
             <div class="box">
@@ -163,7 +163,7 @@ import NavBar from '../components/NavBar.vue'
             <i class="fas fa-graduation-cap"></i>
             <span>2016 - 2017</span>
             <h3>High School Diploma</h3>
-            <p>High School Diplôma in experimental science "serie S2"</p>
+            <p>High School Diploma in experimental science "serie S2"</p>
         </div>
 
         <div class="box">
@@ -175,17 +175,19 @@ import NavBar from '../components/NavBar.vue'
 
         <div class="box">
             <i class="fas fa-graduation-cap"></i>
-            <span>2023 - 2023</span>
-            <h3>Certification: data developer</h3>
-            <p>Certification in data developer specialty at the Sonatel academy coding school</p>
+            <span>2022 - 2023</span>
+            <h3>Master Applied Mathematics</h3>
+            <p>First year of master's degree in applied mathematics at Cheikh Anta Diop University in Dakar</p>
         </div>
 
         <div class="box">
             <i class="fas fa-graduation-cap"></i>
-            <span>2022 - 2023</span>
-            <h3>Master Applied Mathematics</h3>
-            <p>First year of master's degree in applied mathematics at Ceikh Anta Diop University in Dakar</p>
+            <span>January 2023 - October 2023</span>
+            <h3>Certification: data developer</h3>
+            <p>Certification in data developer specialty at the Sonatel academy coding school</p>
         </div>
+
+
 
       
 
