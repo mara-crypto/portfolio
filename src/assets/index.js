@@ -1,12 +1,11 @@
 //     document.addEventListener("DOMContentLoaded", function () {
 //     const readMoreLink = document.getElementById("read-more-link");
-//     const additionalContent = document.getElementsByName("name", "additional-content");
+//     const additionalContent = document.getElementById("read-more");
 //     const loadMoreButton = document.getElementById("load-more-button");
    
 //     readMoreLink.addEventListener("click", function () {
-//         additionalContent.forEach(element => {
-//             element.style.display = "block";
-//         });
+//         additionalContent.style.display = "flex";
+//         additionalContent.classList("box-container")
 //     });
 
 //     loadMoreButton.addEventListener("click", function () {
