@@ -30,7 +30,7 @@ import NavBar from '../components/NavBar.vue'
                 <i class="fas fa-map"></i>
                 <div class="info">
                     <h3>address :</h3>
-                    <p>Dakar Yoff, Senegal - 12000</p>
+                    <p>Montreal, Canada</p>
                 </div>
             </div>
 
@@ -38,7 +38,7 @@ import NavBar from '../components/NavBar.vue'
                 <i class="fas fa-envelope"></i>
                 <div class="info">
                     <h3>email :</h3>
-                    <p>serignemodoudiop55@gmail.com</p>
+                    <p>serigne.md.diop@gmail.com</p>
                 </div>
             </div>
 
