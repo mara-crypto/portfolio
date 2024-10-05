@@ -45,7 +45,7 @@ import NavBar from '../components/NavBar.vue'
             <div class="box">
                 <i class="fas fa-phone"></i>
                 <div class="info">
-                    <h3>number :</h3>
+                    <h3>WhatsApp number :</h3>
                     <p>+221 78 371 94 45</p>
                 </div>
             </div>
@@ -54,8 +54,8 @@ import NavBar from '../components/NavBar.vue'
 
         <div class="share">
             <!-- <a href="https://www.facebook.com/FreeWebsiteCode/" class="fab fa-facebook-f"></a> -->
-            <a href="https://www.instagram.com/smdmara/" class="fab fa-instagram"></a>
-            <a href="https://twitter.com/serignemodoudi9" class="fab fa-twitter"></a>
+            <!-- <a href="https://www.instagram.com/smdmara/" class="fab fa-instagram"></a> -->
+            <!-- <a href="https://twitter.com/serignemodoudi9" class="fab fa-twitter"></a> -->
             <!-- <a href="https://www.youtube.com/FreeWebsiteCode/videos" class="fab fa-youtube"></a> -->
             <a href="https://www.linkedin.com/in/serigne-modou-diop-761144247/" class="fab fa-linkedin"></a>
             <a href="https://github.com/mara-crypto" class="fab fa-github"></a>

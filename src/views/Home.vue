@@ -16,7 +16,7 @@ import NavBar from '../components/NavBar.vue'
 
         <div class="content">
             <h3>hi, i am Serigne Modou Diop</h3>
-            <span>Data Scientist | Data Analyst | Data Engineer</span>
+            <span>Data Scientist | Data Analyst</span>
             <p>Resume</p>
             <router-link to="/about" class="btn"> about me <i class="fas fa-user"></i> </router-link>
         </div>

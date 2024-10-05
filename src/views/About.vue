@@ -21,15 +21,15 @@ import NavBar from '../components/NavBar.vue'
 
                 <div class="box">
                     <h3> <span>name : </span>Diop Serigne Modou </h3>
-                    <h3> <span>age : </span> 25 </h3>
-                    <h3> <span>email : </span> serignemodoudiop55@gmail.com </h3>
-                    <h3> <span>address : </span> Dakar Yoff, Senegal - 12000 </h3>
+                    <h3> <span>age : </span> 26 </h3>
+                    <h3> <span>email : </span> serigne.md.diop@gmail.com </h3>
+                    <h3> <span>address : </span> Montreal, Canada </h3>
                 </div>
     
                 <div class="box">
                     <h3> <span>freelance : </span> available </h3>
                     <h3> <span>skills : </span> Data Scientist, Data Analyst </h3>
-                    <h3> <span>experience : </span> -1 years </h3>
+                    <h3> <span>experience : </span> 2 years </h3>
                     <h3> <span>language : </span> french, english </h3>
                 </div>
 
@@ -42,7 +42,7 @@ import NavBar from '../components/NavBar.vue'
         <div class="count-container">
 
             <div class="box">
-                <h3>-1</h3>
+                <h3>2</h3>
                 <p>year of experience</p>
             </div>
 

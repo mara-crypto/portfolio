@@ -79,7 +79,7 @@ import NavBar from '../components/NavBar.vue'
         </div>
 
         <a id="read-more-link" class="btn"> load more <i class="fas fa-redo"></i> </a>
-        <!-- <br>
+        <br>
         <br>
 
         <div class="box-container" id="read-more" style="display: none;">
@@ -148,7 +148,7 @@ import NavBar from '../components/NavBar.vue'
 
         </div>
 
-            <a id="read-more-link" class="btn" style="display: none;"> load more <i class="fas fa-redo"></i> </a> -->
+            <a id="read-more-link" class="btn" style="display: none;"> load more <i class="fas fa-redo"></i> </a> 
                             
     </section>
 
